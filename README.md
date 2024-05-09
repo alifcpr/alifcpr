@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/ali-esfahani-baa6b3237/"><img src="./logo.png" alt="ali esfahani" width="500"></a>
+  <a href="https://www.linkedin.com/in/ali-esfahani-baa6b3237/"><img src="./logo.png" alt="ali esfahani" width="500"></a>
   <br>
   Ali Esfahani (alifcpr)
 </h1>
@@ -11,4 +11,4 @@
 
 ## Socials:
 
-[![LinkedIn](https://img.shields.io/badge/Linkedin-2CA5E0?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ali-esfahani-baa6b3237/)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-2CA5E0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-esfahani-baa6b3237/)
