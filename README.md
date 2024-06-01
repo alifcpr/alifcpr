@@ -2,7 +2,7 @@
   <br>
   <a href="https://www.linkedin.com/in/ali-esfahani-baa6b3237/"><img src="./logo.png" alt="ali esfahani" width="500"></a>
   <br>
-  Ali Esfahani (alifcpr)
+  Ali Esfahani
 </h1>
 <h4 align="center">A front end developer, also known as alifcpr</h4>
 
